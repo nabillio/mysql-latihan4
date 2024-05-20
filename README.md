@@ -1,1 +1,1 @@
-# mysql-latihan4
+# sum-avg-min-max
