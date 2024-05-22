@@ -4,5 +4,5 @@
 
 # sum-avg-min-max
 
-![image](tb.pngt)
-![image](tb2.png)
+![image](t1.pngt)
+![image](t2.png)
